@@ -1,0 +1,3 @@
+Nel primo screen è stato usato netcat per farci mandare i cookie dal XSS stored.
+Nel secondo e nel terzo screen è stato usato sqlmap per craccare le password.
+E' bastato inserire l'URL e il cookie trovato in precedenza e al resto ci pensa sqlmap
